@@ -1,0 +1,7 @@
+{
+  "name": "AstroEarth Weather",
+  "description": "A 3D interactive Earth application for real-time outdoor and stargazing weather analysis using Google Maps and Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
